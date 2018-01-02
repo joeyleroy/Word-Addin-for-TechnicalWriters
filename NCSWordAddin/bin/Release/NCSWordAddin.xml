@@ -1,0 +1,249 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NCSWordAddin
+</name>
+</assembly>
+<members>
+<member name="T:NCSWordAddin.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources._Select">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.Button1CheckFrame">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.CheckOFF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.CheckON">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.CloseX1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.CloseX1BIG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.Create1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.Create2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.EditPreview1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.EditPreview2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.ErrorFrame">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.Insert1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.Insert2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.MessageFrame">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.orbital_folder_downloads">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.orbital_folder_downloads1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.orbital_folder_downloadsBIG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.orbital_folder_downloadsBIGGER">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.orbital_folder_downloadsCLEAN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.orbital_folder_downloadsGREEN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.orbital_search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.orbital_searchBIGGER">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.Refresh1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.Refresh1BIGGER">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.SelectBig">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.sys_printer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.sys_printer1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.TemplatesFrame1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.TemplatesFrame2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.TemplatesFrame3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.Trash1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:NCSWordAddin.My.Resources.Resources.Trash2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:NCSWordAddin.ThisRibbonCollection">
+
+</member>
+<member name="M:NCSWordAddin.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+
+</member>
+<member name="T:NCSWordAddin.ThisAddIn">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.#ctor(Microsoft.Office.Tools.Word.ApplicationFactory,System.IServiceProvider)">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.Initialize">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.FinishInitialization">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.InitializeDataBindings">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.InitializeCachedData">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.InitializeData">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.BindToData">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.StartCaching(System.String)">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.StopCaching(System.String)">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.IsCached(System.String)">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.BeginInitialization">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.EndInitialization">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.InitializeControls">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.InitializeComponents">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.NeedsFill(System.String)">
+
+</member>
+<member name="M:NCSWordAddin.ThisAddIn.OnShutdown">
+
+</member>
+<member name="T:NCSWordAddin.Globals">
+
+</member>
+<member name="M:NCSWordAddin.Globals.#ctor">
+
+</member>
+</members>
+</doc>
